@@ -66,7 +66,7 @@ This dual-thread architecture is reflected in the source layout:
 > [!NOTE]  
 > Work in progress — more models and features are on the way 🫡
 
-## Visit the [Live Demo](https://neuromancer.rudro.me) or Run Locally
+## Visit the [Live Demo](https://neuromancer.rwdr0.me) or Run Locally
 
 ```shell
   git clone https://github.com/rwdr0/neuromancer &&\
